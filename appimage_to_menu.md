@@ -6,12 +6,12 @@ Open terminal and run:
 
 Copy & Paste to file:
 
-[Desktop Entry]
-Name=APPNAME
-Exec={LOCATION_OF_APPIMAGE}    example: Exec=/home/tmollov/app_images/myapp.App.Image
-Comment=DESCRIPTION_OF_APP
-Icon={LOCATION_OF_APP_ICON}    example: Icon=/home/tmollov/app_images/myapp.png
-Type=Application
-Terminal=false
-Encoding=UTF-8
+[Desktop Entry]   
+Name=APPNAME   
+Exec={LOCATION_OF_APPIMAGE}    example: Exec=/home/tmollov/app_images/myapp.App.Image  
+Comment=DESCRIPTION_OF_APP  
+Icon={LOCATION_OF_APP_ICON}    example: Icon=/home/tmollov/app_images/myapp.png  
+Type=Application  
+Terminal=false  
+Encoding=UTF-8  
 Categories={CATEGORY_OF_APP}   example: Categories=Graphics
