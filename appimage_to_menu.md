@@ -1,4 +1,4 @@
-Open terminal and run:
+Open terminal and run as administrator:
 
 1. cd /usr/share/applications
 2. touch APPNAME.desktop
