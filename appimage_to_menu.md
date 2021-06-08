@@ -1,3 +1,5 @@
+Open terminal and run:
+
 1. cd /usr/share/applications
 2. touch APPNAME.desktop
 3. gedit APPNAME.desktop
